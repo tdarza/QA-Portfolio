@@ -6,4 +6,4 @@ This repository contains practical work completed as part of my transition into 
 Hands-on practice with REST API methods (GET, POST, PUT, DELETE) on a mock environment, including JavaScript test scripts to validate responses and automate assertions.
 
 [Manual Test Cases - Sauce Demo Website](https://docs.google.com/spreadsheets/d/13hPPE2FumIORez9u4bFs5L-Bwz-IGKsn7_JBtEI-kPM/edit?usp=sharing)
-Exploratory testing of a full e-commerce user flow, covering login validation, product browsing, checkout, and logout. Includes negative test cases, documented steps to reproduce, expected vs actual results, and supporting evidence.
+Exploratory testing of a full e-commerce user flow, covering login validation, product browsing, checkout, and logout. Includes functional, UI, Usability and negative test types, documented steps to reproduce, expected vs actual results, and supporting evidence.
