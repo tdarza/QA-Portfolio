@@ -1,4 +1,4 @@
-# UBEPowder Website – QA Case Study
+# Astoria Ube Powder Website – QA Case Study
 
 ## Project Overview
 
