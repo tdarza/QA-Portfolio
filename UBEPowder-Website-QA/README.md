@@ -1,4 +1,4 @@
-# Astoria Ube Powder Website – QA Case Study
+# Astoria Philippine Ube Powder Website – QA Case Study
 
 ## Project Overview
 
@@ -44,9 +44,20 @@ The purpose of this project was to evaluate the website's functionality, usabili
 - GitHub
 - OpenAI Codex
 
-## Documentation
+## Project Documentation
 
-Project documentation, test results and selected evidence will be added here.
+The following documents provide an overview of the testing approach, findings and performance results:
+
+- **[Test Plan](documentation/Test-Plan.md)** – Testing objectives, scope, environment, approach and limitations.
+- **[Final QA Summary](documentation/QA-Summary.md)** – Overview of the testing results, key findings and recommendations.
+- **[Lighthouse Performance Results](test-results/Lighthouse-Results.md)** – Average Lighthouse scores and performance metrics across desktop and mobile.
+
+## Additional Testing Records
+
+For more detailed testing information, see the following resources:
+
+- **[Jira – Bug Reports and Tracking](https://tristandarza.atlassian.net/jira/software/projects/KAN/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiYThkYzBiMzY5YTY3NGVlN2FjYzE1ZTYyZGE4ZjI4OWUiLCJwIjoiaiJ9)** – 13 documented issues (KAN-1 to KAN-13), including reproduction steps, expected and actual results, and supporting evidence.
+- **[Google Sheets – Testing Overview and Lighthouse Results](https://docs.google.com/spreadsheets/d/1RGCtcOBl1c98a9PJijhdGFjN7_sv-HSiReFzTJ1KhZs/edit?usp=sharing)** – Consolidated testing coverage, results and detailed Lighthouse measurements.
 
 ## Disclaimer
 
